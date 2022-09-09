@@ -2,11 +2,31 @@
 
   "posts": [
 
-    { "id": 1, "title": "Post 1" },
+    {
+    "id": 1,
+    "title": "Ciberpunk 2077",
+    "url": "https://media.vandal.net/m/20029/cyberpunk-2077-201961217172698_1.jpg",
+    "description": "Cyberpunk 2077 es un RPG de aventura y acción de mundo abierto ambientado en el futuro sombrío de Night City, una peligrosa megalópolis obsesionada con el poder, el glamur y las incesantes modificaciones corporales.",
+    "date": "9 DIC 2020",
+    "developer": "CD PROJEKT RED",
+    "editor": "CD PROJEKT RED",
+    "tags": "Ciberpunk" "FPS",
+    "multiplayer": false
+  },
 
-    { "id": 2, "title": "Post 2" },
-
-    { "id": 3, "title": "Post 3" }
+  {
+    "id": 2,
+    "title": "FIFA 22",
+    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1506830/header.jpg?t=1653581021",
+    "description": "Powered by Football™. EA SPORTS™ FIFA 22 acerca aún más el juego a la realidad gracias a mejoras significativas en la jugabilidad y una nueva temporada de novedades en todos los modos.",
+    "date": "1 OCT 2021",
+    "developer": "EA Canada & EA Romania",
+    "editor": "Electronic Arts",
+    "tags": "Fútbol" "Deportes" "Multijugador" "Para mando",
+    "multiplayer": true,
+  },
+    
+    
 
   ],
 

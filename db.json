@@ -218,18 +218,6 @@
 
   {
     "id": 19,
-    "title": "F1® 22",
-    "url": "https://cdn.akamai.steamstatic.com/steam/apps/1692250/header.jpg?t=1662051802",
-    "description": "Entra en la nueva era de la Formula 1® en EA SPORTS™ F1® 22, el videojuego oficial de FIA Formula One World Championship™ 2022",
-    "date": "1 JUL 2022",
-    "developer": "Codemasters",
-    "editor": "Electronic Arts",
-    "tags": "Carreras, Deportes, Multijugador, Cooperativos",
-    "multiplayer": true
-  },
-
-  {
-    "id": 20,
     "title": "Dead by Daylight",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/381210/header.jpg?t=1661894604",
     "description": "Dead by Daylight es un juego de horror de multijugador (4 contra 1) en el que un jugador representa el rol del asesino despiadado y los 4 restantes juegan como supervivientes que intentan escapar de él para evitar ser capturados y asesinados.",
@@ -241,7 +229,7 @@
   },
 
   {
-    "id": 21,
+    "id": 20,
     "title": "God of War",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/1593500/header.jpg?t=1650554420",
     "description": "Kratos ha dejado atrás su venganza contra los dioses del Olimpo y vive ahora como un hombre en los dominios de los dioses y monstruos nórdicos. En este mundo cruel e implacable debe luchar para sobrevivir… y enseñar a su hijo a hacerlo también.",
@@ -253,7 +241,7 @@
   },
 
   {
-    "id": 22,
+    "id": 21,
     "title": "Mass Effect™ Legendary Edition",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/header.jpg?t=1662047542",
     "description": "Mass Effect™ Legendary Edition incluye el contenido básico para un jugador y más de 40 contenidos descargables aclamados de Mass Effect, Mass Effect 2 y Mass Effect 3, además de armas, armaduras y paquetes promocionales; todo remasterizado y optimizado para 4K Ultra HD.",

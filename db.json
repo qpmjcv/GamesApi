@@ -266,18 +266,6 @@
 
   {
     "id": 23,
-    "title": "Arma 3",
-    "url": "https://cdn.akamai.steamstatic.com/steam/apps/107410/header.jpg?t=1655998601",
-    "description": "Combate realista en un enorme mundo abierto militar. Gran cantidad de contenido en solitario y multijugador, más de 20 vehículos y 40 armas e infinitas posibilidades de creación de contenido. El mejor juego militar para PC. Auténtico, diverso, abierto... Con Arma 3 vas a vivir la guerra.",
-    "date": "12 SEP 2013",
-    "developer": "Bohemia Interactive",
-    "editor": "Bohemia Interactive",
-    "tags": "Acción, Militares, Multijugador,Simulación FPS",
-    "multiplayer": true
-  },
-
-  {
-    "id": 24,
     "title": "Hunt: Showdown",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/594650/header_alt_assets_13.jpg?t=1662450463",
     "description": "Hunt: Showdown es un emocionante shooter de alto riesgo en primera persona para JcJcE. Elimina monstruos de pesadilla, mientras compites por las recompensas que te llevarán a alcanzar la gloria, el equipo y el oro en esta experiencia multijugador online implacable e inolvidable.",
@@ -289,7 +277,7 @@
   },
 
   {
-    "id": 25,
+    "id": 24,
     "title": "Mass Effect™ Legendary Edition",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/header.jpg?t=1662047542",
     "description": "Mass Effect™ Legendary Edition incluye el contenido básico para un jugador y más de 40 contenidos descargables aclamados de Mass Effect, Mass Effect 2 y Mass Effect 3, además de armas, armaduras y paquetes promocionales; todo remasterizado y optimizado para 4K Ultra HD.",

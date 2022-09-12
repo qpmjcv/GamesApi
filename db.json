@@ -252,20 +252,8 @@
     "multiplayer": false
   },
 
-  {
+ {
     "id": 22,
-    "title": "Hogwarts Legacy",
-    "url": "https://cdn.akamai.steamstatic.com/steam/apps/990080/header.jpg?t=1661535551",
-    "description": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
-    "date": "10 FEB 2023",
-    "developer": "Avalanche Software",
-    "editor": "Warner Bros. Games",
-    "tags": "Aventura, Magia, Mundo abierto, Fantasía, Rol",
-    "multiplayer": false
-  },
-
-  {
-    "id": 23,
     "title": "Hunt: Showdown",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/594650/header_alt_assets_13.jpg?t=1662450463",
     "description": "Hunt: Showdown es un emocionante shooter de alto riesgo en primera persona para JcJcE. Elimina monstruos de pesadilla, mientras compites por las recompensas que te llevarán a alcanzar la gloria, el equipo y el oro en esta experiencia multijugador online implacable e inolvidable.",
@@ -277,7 +265,7 @@
   },
 
   {
-    "id": 24,
+    "id": 23,
     "title": "Mass Effect™ Legendary Edition",
     "url": "https://cdn.akamai.steamstatic.com/steam/apps/1328670/header.jpg?t=1662047542",
     "description": "Mass Effect™ Legendary Edition incluye el contenido básico para un jugador y más de 40 contenidos descargables aclamados de Mass Effect, Mass Effect 2 y Mass Effect 3, además de armas, armaduras y paquetes promocionales; todo remasterizado y optimizado para 4K Ultra HD.",

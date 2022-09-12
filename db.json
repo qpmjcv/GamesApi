@@ -10,7 +10,6 @@
     "tags": "Ciberpunk",
     "multiplayer": false
   },
-
   {
     "id": 2,
     "title": "FIFA 22",
@@ -22,7 +21,6 @@
     "tags": "Fútbol",
     "multiplayer": true
   },
-
   {
     "id": 3,
     "title": "NBA 2K22",
@@ -34,7 +32,6 @@
     "tags": "Deportes, Baloncesto, Simulación, Realistas",
     "multiplayer": true
   },
-
   {
     "id": 4,
     "title": "Marvel Spider-Man",
@@ -46,7 +43,6 @@
     "tags": "Super héroes, Acción, Mundo abierto, Un jugador",
     "multiplayer": false
   },
-
   {
     "id": 5,
     "title": "Red Dead Redemption 2",
@@ -58,7 +54,6 @@
     "tags": "Mundo abierto, Buena trama, Aventura, Vaqueros",
     "multiplayer": true
   },
-
   {
     "id": 6,
     "title": "ELDEN RING",
@@ -70,7 +65,6 @@
     "tags": "Tipo «Dark Souls», Relajantes, Fantasía oscura",
     "multiplayer": false
   },
-
   {
     "id": 7,
     "title": "Destiny 2",
@@ -82,7 +76,6 @@
     "tags": "Free to Play, Mundo abierto, Disparos y botín, JcJ",
     "multiplayer": true
   },
-
   {
     "id": 8,
     "title": "Grand Theft Auto V",
@@ -94,7 +87,6 @@
     "tags": "Mundo abierto, Acción, Multijugador, Crimen",
     "multiplayer": true
   },
-
   {
     "id": 9,
     "title": "Titanfall® 2",
@@ -106,7 +98,6 @@
     "tags": "FPS, Multijugador, Disparos, Mechas, Acción",
     "multiplayer": true
   },
-
   {
     "id": 10,
     "title": "Total War: WARHAMMER III",
@@ -118,7 +109,6 @@
     "tags": "Acceso anticipado, Estrategia, Estrategia por turnos",
     "multiplayer": true
   },
-
   {
     "id": 11,
     "title": "Counter-Strike: Global Offensive",
@@ -130,7 +120,6 @@
     "tags": "FPS, Disparos, Multijugador, Competitivos, JcJ",
     "multiplayer": true
   },
-
   {
     "id": 12,
     "title": "Call of Duty®: Modern Warfare® II",
@@ -142,7 +131,6 @@
     "tags": "FPS, Acción, Disparos, Multijugador, Militares",
     "multiplayer": true
   },
-
   {
     "id": 13,
     "title": "RESIDENT EVIL VILLAGE",
@@ -154,7 +142,6 @@
     "tags": "Supervivencia / TerrorTerror, Primera persona",
     "multiplayer": false
   },
-
   {
     "id": 14,
     "title": "Forza Horizon 5",
@@ -166,7 +153,6 @@
     "tags": "Carreras, Mundo abierto, Conducción, Aventura",
     "multiplayer": true
   },
-
   {
     "id": 15,
     "title": "Stray",
@@ -178,7 +164,6 @@
     "tags": "Gatos, Aventura, Ciberpunk, Ambientales, Indie",
     "multiplayer": false
   },
-
   {
     "id": 16,
     "title": "Dying Light",
@@ -190,7 +175,6 @@
     "tags": "Zombis, Supervivencia / Terror, Terror, Parkour",
     "multiplayer": false
   },
-
   {
     "id": 17,
     "title": "Call of Duty®: Black Ops III",
@@ -202,7 +186,6 @@
     "tags": "Multijugador, FPS, Zombis, Disparos, Acción",
     "multiplayer": true
   },
-
   {
     "id": 18,
     "title": "Dead by Daylight",
@@ -214,7 +197,6 @@
     "tags": "Terror, Supervivencia / Terror, Multijugador, Sigilo",
     "multiplayer": true
   },
-
   {
     "id": 19,
     "title": "God of War",
@@ -226,7 +208,6 @@
     "tags": "Acción, Aventura, Un jugador, Buena trama, 3D",
     "multiplayer": false
   },
-
   {
     "id": 20,
     "title": "Mass Effect™ Legendary Edition",

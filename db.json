@@ -206,13 +206,13 @@
 
   {
     "id": 18,
-    "title": "Rust",
-    "url": "https://cdn.akamai.steamstatic.com/steam/apps/252490/header.jpg?t=1659365273",
-    "description": "The only aim in Rust is to survive. Everything wants you to die - the islands wildlife and other inhabitants, the environment, other survivors. Do whatever it takes to last another night.",
-    "date": "8 FEB 2018",
-    "developer": "Facepunch Studios",
-    "editor": "Facepunch Studios",
-    "tags": "Supervivencia, Fabricación, Multijugador, JcJ",
+    "title": "Call of Duty®: Black Ops III",
+    "url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/header.jpg?t=1646763462",
+    "description": "Call of Duty® Black Ops III: Zombies Chronicles Edition incluye el juego original completo y la expansión de contenido Zombies Chronicles.",
+    "date": "6 NOV 2015",
+    "developer": "Treyarch, Aspyr (Mac)",
+    "editor": "Activision, Aspyr (Mac)",
+    "tags": "Multijugador, FPS, Zombis, Disparos, Acción",
     "multiplayer": true
   },
 
@@ -298,19 +298,7 @@
     "editor": "Electronic Arts",
     "tags": "Buena tramam Rol, Las elecciones importan",
     "multiplayer": false
-  },
-
-  {
-    "id": 26,
-    "title": "Call of Duty®: Black Ops III",
-    "url": "https://cdn.akamai.steamstatic.com/steam/apps/311210/header.jpg?t=1646763462",
-    "description": "Call of Duty® Black Ops III: Zombies Chronicles Edition incluye el juego original completo y la expansión de contenido Zombies Chronicles.",
-    "date": "6 NOV 2015",
-    "developer": "Treyarch, Aspyr (Mac)",
-    "editor": "Activision, Aspyr (Mac)",
-    "tags": "Multijugador, FPS, Zombis, Disparos, Acción",
-    "multiplayer": true
   }
-]
 
+]
 }
